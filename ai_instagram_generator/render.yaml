@@ -3,7 +3,7 @@ services:
     name: mon-app-flask
     runtime: python
     buildCommand: ""
-    startCommand: "python app.py"
+    startCommand: "cd ai_instagram_generator && python app.py"
     envVars:
       - key: PORT
         value: 10000
