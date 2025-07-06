@@ -1,6 +1,6 @@
-# 🤖 Générateur d'Accroches Instagram IA
+# 🤖 Générateur d'Accroches IA
 
-Un générateur d'accroches Instagram intelligent basé sur l'IA qui crée des accroches captivantes pour vos posts en quelques clics.
+Un générateur d'accroches intelligent basé sur l'IA qui crée des accroches captivantes pour vos posts en quelques clics.
 
 ## ✨ Fonctionnalités
 
